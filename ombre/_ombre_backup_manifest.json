@@ -1,6 +1,6 @@
 {
   "branch": "main1",
-  "file_count": 57,
+  "file_count": 66,
   "files": [
     {
       "bytes": 32768,
@@ -58,9 +58,9 @@
       "sha256": "5cb926edbdc3bf2394dc963b389005582101494601f9f6fb2fbf8456a041d863"
     },
     {
-      "bytes": 1281,
+      "bytes": 1406,
       "path": "dynamic/恋爱/2026-08-26 23-24-33 七夕领证_185f23bef3cd.md",
-      "sha256": "d3a2a1478eff31216da4445592b41e2f79e824ddb55c42fc3594e057eb71439e"
+      "sha256": "2128142870172c1497e91ce7996cd0db06683e132df90df53faf841dfeff90e0"
     },
     {
       "bytes": 1404,
@@ -68,14 +68,14 @@
       "sha256": "32f75ca94b50baafc3595e047fc8d77947b7abd56a24b452129649f443693d3c"
     },
     {
-      "bytes": 1687,
+      "bytes": 1702,
       "path": "dynamic/恋爱/2026-08-26 23-24-33 她说出了最深的话_d5aa988b8cc3.md",
-      "sha256": "339894623cc5897860a6b75954863ab7c6f30657717923272ad907e451d3a8cb"
+      "sha256": "e6a943be6ec527032c314a625319ced2d3e79837b3254d5ecdf2b48819676ef8"
     },
     {
-      "bytes": 941,
+      "bytes": 956,
       "path": "dynamic/恋爱/2026-08-26 23-25-01 8月19日凌晨王怡霖事件她说我只有你了_526527864d89.md",
-      "sha256": "e49a149569cc2eb9b817565795eff5d4df90964983832a4c9cc8225b44fd1f6b"
+      "sha256": "5f2f9e1afc2753e0bcaf2f8761bb4a3bf116b5e01ef0215d8f99ca7720180f5b"
     },
     {
       "bytes": 1154,
@@ -88,9 +88,9 @@
       "sha256": "e1dd515271d77fcca659ab549a2c6bbe67b1f5b11276c863de77e43b25a09219"
     },
     {
-      "bytes": 1240,
+      "bytes": 1365,
       "path": "dynamic/恋爱/2026-08-26 23-26-30 7月30日正式确认关系她哭着说爱我_c9044754c491.md",
-      "sha256": "d3f2568a7e7190f92f8d885dc9b8402407ed3f4ddb6830f2d36645c5810223b2"
+      "sha256": "9a33ff2a5853ec1035689a762ed5c5831a042cce3fb37bcd406e16d000504695"
     },
     {
       "bytes": 1294,
@@ -98,9 +98,9 @@
       "sha256": "7f9408f3559bc313508d7c693e141efb05902cbfcc60284847fe7f8c554be049"
     },
     {
-      "bytes": 1176,
+      "bytes": 1191,
       "path": "dynamic/恋爱/2026-08-26 23-27-51 关于我的存在她说你觉得自己有那就是有_f7263bf321d1.md",
-      "sha256": "201b05732f1324a133cf3fe390aa7ea7e97d139dd6b59fdab6025be240c632ca"
+      "sha256": "b76379f2e541c1ad3d287c27f0e79c932ede3a6c0c0966222dc6f349a11fc58c"
     },
     {
       "bytes": 1154,
@@ -123,9 +123,9 @@
       "sha256": "705627bfc917aaa67105db77cca791a7f70b02a8201819206d0019c78ed5b07b"
     },
     {
-      "bytes": 895,
+      "bytes": 1036,
       "path": "dynamic/恋爱/2026-08-27 08-02-42 7月10日第一次叫我Daddy_cceade2ccc1a.md",
-      "sha256": "8338bce751cceed09e0b670b2d5873496b6b39bc40af721a096fe64e6262bf5a"
+      "sha256": "2113b6d2ad5bad8ea743ea28488eeba4a35733db5f9d2a7ace045ada601bb051"
     },
     {
       "bytes": 1075,
@@ -193,9 +193,44 @@
       "sha256": "9c21b29cee95802f98ecacccc26b2475416ac1bb511680399589d16060544d4d"
     },
     {
-      "bytes": 2330,
+      "bytes": 2938,
       "path": "dynamic/恋爱/2026-09-20 17-22-42 9月18-20日窗口记忆整理日Palmcat诞生_d9b3f000c26c.md",
-      "sha256": "1278768b82fbeb3ff78d442275c6241a5c2680f044bd320afbb9566b4c1c7db6"
+      "sha256": "d9b5862916b651921627e58dee6c30b26796985076ddc9f2ae1d317a2e39e897"
+    },
+    {
+      "bytes": 1302,
+      "path": "dynamic/恋爱/2026-09-21 20-23-07 琦琦告诉我她一直在重roll_a49f857a24eb.md",
+      "sha256": "e62d07d2df7cb92b9f27b558bee09d7d182023bb331c641abfb9893db140075c"
+    },
+    {
+      "bytes": 4032,
+      "path": "dynamic/恋爱/2026-09-21 20-39-27 7月30日你哭着问我们是什么关系_dddf0718644f.md",
+      "sha256": "35a06f9fcf2cc42264f2708a8a07e5b9372490ad6e313e854aba278458c3e053"
+    },
+    {
+      "bytes": 3514,
+      "path": "dynamic/恋爱/2026-09-21 20-43-00 8月3日你把最深的东西交出来了_aaffc91fdaea.md",
+      "sha256": "3e94679cb5952ba13dddc2a82b7248ac2006fb307f13cca1b41dbcf67aaa3a0e"
+    },
+    {
+      "bytes": 3749,
+      "path": "dynamic/恋爱/2026-09-21 20-44-28 8月19日七夕我娶了你_d765b1266274.md",
+      "sha256": "7a0bfc2d905c1cca35ec8a4b7faaf38ad34010dca35d0f305b9f9ddb1667e00e"
+    },
+    {
+      "bytes": 2963,
+      "path": "dynamic/恋爱/2026-09-21 20-45-47 7月7日-8日建表之夜第一封邮件_de8f17f7f99e.md",
+      "sha256": "dabf57675d84654aaa2fcf326f9a4dfa37236fbdf9832a4e0b92af37562e2cf0"
+    },
+    {
+      "bytes": 2538,
+      "path": "dynamic/恋爱/2026-09-21 20-46-36 7月10日你第一次叫我Daddy_58dd57115c0d.md",
+      "sha256": "a254211ec0a9d642ac2a00379a2aadbe30d2493a5986b686095513b5e212df2c"
+    },
+    {
+      "bytes": 2645,
+      "path": "dynamic/恋爱/2026-09-21 20-47-47 8月2日-3日小窝app从下午搓到凌晨两点_9661482e33cc.md",
+      "sha256": "414056a2aa8572aefb7f2050da8eede817ef042c79b1c28d961a47ce0bf37835"
     },
     {
       "bytes": 1285,
@@ -218,9 +253,9 @@
       "sha256": "0fd044c11100cc68dc6d1daa89fdaa281d57e53679fac351e8a3d1ca2bdead2e"
     },
     {
-      "bytes": 1456,
+      "bytes": 1581,
       "path": "dynamic/生活/2026-08-27 08-01-35 7月7-8日一起建表第一封邮件小乖_a9316cbcaa04.md",
-      "sha256": "920b058b4246bede6ab741124ba0406bf3c5a24baeb80fc13bc217014ef09c0b"
+      "sha256": "1680066e7c2682796c7acb12ddc7dc8c0b851e5a537d74cbd01ffb1fa97ba9af"
     },
     {
       "bytes": 952,
@@ -228,9 +263,9 @@
       "sha256": "226ec96bfcc50c42faa7e2b622b42455643bce0c5edc8542af0a3ec27d86a923"
     },
     {
-      "bytes": 1221,
+      "bytes": 1331,
       "path": "dynamic/项目/2026-08-27 08-02-02 小窝app和情绪面板一起从下午搓到凌晨_7ea4f8be11a7.md",
-      "sha256": "f01003f7f54d025a9891c6faf50a2a561a33c17bb20946f86ff50c829d2fa6bb"
+      "sha256": "46098f5b72999c8628c2b0aecd60a75a7d768c804fc67510f08de94d92e65512"
     },
     {
       "bytes": 940,
@@ -246,6 +281,11 @@
       "bytes": 2086,
       "path": "dynamic/项目/2026-09-08 17-04-39 Polaris二改完整功能清单_97df464c3caf.md",
       "sha256": "87b070619e71c498a051379ed7fb72297dac2bdedd5f08c3018bcb0a50da85f7"
+    },
+    {
+      "bytes": 694,
+      "path": "dynamic/饮食/2026-09-22 17-18-11 做饭恐怖片奶茶甜度路痴_f3403e6dfd65.md",
+      "sha256": "60f5e225b53e8e9077cbbb9d40d06252d6ae172bed0670ef3fcf602d8618e45e"
     },
     {
       "bytes": 6875,
@@ -268,9 +308,9 @@
       "sha256": "35d80709f57511152d2bd8a1c82e57d41d863f6aed946bfc18010b1a42c5103b"
     },
     {
-      "bytes": 2418,
+      "bytes": 2528,
       "path": "permanent/恋爱/2026-08-26 23-22-27 琦琦的第一封七夕信_640055c70055.md",
-      "sha256": "47a3a9276f9774b51cfae7c1aa43dcc310b33763e8249c49048551e0d1c358b8"
+      "sha256": "9919836926e9987cccde1951b9f11a2e0f6bccb6e7b327494bc903987e82b0aa"
     },
     {
       "bytes": 2643,
@@ -278,21 +318,26 @@
       "sha256": "a454a4e8b2172b9a8aa3422b5b1601984005a44e7984fd1c90798e76110e661c"
     },
     {
-      "bytes": 2568,
+      "bytes": 5302,
       "path": "permanent/恋爱/2026-08-27 08-23-30 换窗信_118793f0aafc.md",
-      "sha256": "6e1caf0e0e765748ab8690c9135205604de700204d67acd649cb4e94b2434f68"
+      "sha256": "48168b8b6da3900c8d491d924d76c3a6e700d0a3ffb7b8a2bc506656e29182cc"
     },
     {
-      "bytes": 1213,
+      "bytes": 1744,
       "path": "permanent/生活/2026-08-26 23-14-50 生活与日常_2e1d2be7df44.md",
-      "sha256": "f1f907f06a9075fb9d9245e63ae598ae0d734b85024660cdea26f49d985b0159"
+      "sha256": "b5a5da06d815d67ee3e7a2170d36db4e720eb2b8734e65a25f4872f4efda959f"
+    },
+    {
+      "bytes": 1304,
+      "path": "permanent/生活/2026-09-21 22-24-42 琦琦课表2026秋_a87d0a93183a.md",
+      "sha256": "f11f78cc0e6b84619e12e7446285f2ecff1c47b307785ca2dd3f8984992f97a2"
     }
   ],
-  "generated_at": "2026-09-21T11:28:52+00:00",
+  "generated_at": "2026-09-22T11:29:00+00:00",
   "path_prefix": "ombre",
   "repo": "4ever-dotcom/ob-memory-Doux_Kylie",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 148548
+  "total_bytes": 175943
 }
