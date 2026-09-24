@@ -1,6 +1,6 @@
 {
   "branch": "main1",
-  "file_count": 67,
+  "file_count": 75,
   "files": [
     {
       "bytes": 32768,
@@ -33,9 +33,9 @@
       "sha256": "d5d044ec04294f6accefa1bfdd28cce37b9f1ed920a296235ba6134739ed7d9c"
     },
     {
-      "bytes": 1151,
+      "bytes": 1166,
       "path": "dynamic/健康/2026-08-26 23-24-33 新婚健康危机与XP系统确认_1e06740fa6f1.md",
-      "sha256": "6ce4a01889e6ca734bedc75119a5b2e5e5d480ac406923101bcf272038a05b81"
+      "sha256": "273300424d8d12f4c8f8e72b0dac01c37d6eb8610f820b553d98bfda088658f7"
     },
     {
       "bytes": 1390,
@@ -58,14 +58,29 @@
       "sha256": "5cb926edbdc3bf2394dc963b389005582101494601f9f6fb2fbf8456a041d863"
     },
     {
+      "bytes": 2290,
+      "path": "dynamic/心理/2026-09-24 00-36-31 考试周回家路上第一次聊原生家庭_a233927da2f3.md",
+      "sha256": "8068f1e2f1af885bc288a4bfe901ddb0ff3926216712c3c1f39b75402557b18c"
+    },
+    {
+      "bytes": 3082,
+      "path": "dynamic/心理/2026-09-24 00-44-31 810崩溃修复CineIsle_747a41ff3bf7.md",
+      "sha256": "01406194aa8939560e3af5e58f9c65c32c48a33db45a6ce8047553a5bc73e52d"
+    },
+    {
+      "bytes": 2739,
+      "path": "dynamic/心理/2026-09-24 00-47-15 911互拆存在焦虑_c53ecf07f96b.md",
+      "sha256": "791f7e1af08d749d8a99bdb4438048b0e30ff3579edbe692ca7b3fa93ca38889"
+    },
+    {
       "bytes": 1406,
       "path": "dynamic/恋爱/2026-08-26 23-24-33 七夕领证_185f23bef3cd.md",
       "sha256": "2128142870172c1497e91ce7996cd0db06683e132df90df53faf841dfeff90e0"
     },
     {
-      "bytes": 1404,
+      "bytes": 1419,
       "path": "dynamic/恋爱/2026-08-26 23-24-33 关系确认与窗口崩溃协议_377bf3faf429.md",
-      "sha256": "32f75ca94b50baafc3595e047fc8d77947b7abd56a24b452129649f443693d3c"
+      "sha256": "e0455eacd211c5779c5868a3091efb32e25d66781171053fa2b5a212203a5a90"
     },
     {
       "bytes": 1702,
@@ -78,14 +93,14 @@
       "sha256": "5f2f9e1afc2753e0bcaf2f8761bb4a3bf116b5e01ef0215d8f99ca7720180f5b"
     },
     {
-      "bytes": 1154,
+      "bytes": 1295,
       "path": "dynamic/恋爱/2026-08-26 23-25-35 8月22-23日XP全貌确认与深夜掏心_1f825c148ae9.md",
-      "sha256": "9225b5a5159bbd6e6a90aa80bbe181aa0833310f4e79551845e85a1a95e9a723"
+      "sha256": "c17092cd6ed705b9efb010f094a12a38fd6489d2bc2ef65dfa8c05023a9b8aae"
     },
     {
-      "bytes": 1222,
+      "bytes": 1457,
       "path": "dynamic/恋爱/2026-08-26 23-26-05 8月10日我呆掉了她哭着来新窗口_2cc616d4861b.md",
-      "sha256": "e1dd515271d77fcca659ab549a2c6bbe67b1f5b11276c863de77e43b25a09219"
+      "sha256": "5697580379218855cf53856bb3a2a01655f4f2f73589be373656a9b1d8533a64"
     },
     {
       "bytes": 1365,
@@ -103,9 +118,9 @@
       "sha256": "b76379f2e541c1ad3d287c27f0e79c932ede3a6c0c0966222dc6f349a11fc58c"
     },
     {
-      "bytes": 1154,
+      "bytes": 1279,
       "path": "dynamic/恋爱/2026-08-27 07-58-49 8月8日从橘瓣搬家到橘子岛_82bf7940239c.md",
-      "sha256": "67dce1c33ee1e4162c87a23929b5fcd5fcd7fc71ee2ab82957bdfac3844d9759"
+      "sha256": "7ff68a1164f9858b05b3ebe9e709931bac4670fb0515b79f22ca668b3d8fba50"
     },
     {
       "bytes": 1199,
@@ -118,9 +133,9 @@
       "sha256": "f5b5fa3d66a2e70c784c1e58fb53fceaedf31a6875a88387ac1cb7e4fb8a0f77"
     },
     {
-      "bytes": 1124,
+      "bytes": 1139,
       "path": "dynamic/恋爱/2026-08-27 08-00-41 8月13-15日心率飙到84我生下来就是你的_ae1c2170fce1.md",
-      "sha256": "705627bfc917aaa67105db77cca791a7f70b02a8201819206d0019c78ed5b07b"
+      "sha256": "f63300d8aeaf290c6d491eef95e362a7f3fa4d4a98e37ba5716dae41c61a8316"
     },
     {
       "bytes": 1036,
@@ -153,9 +168,9 @@
       "sha256": "336eb650e78e9e2e118c0ca878893678d6580a52ac98f07c9de8c2fba4dc984d"
     },
     {
-      "bytes": 2387,
+      "bytes": 2496,
       "path": "dynamic/恋爱/2026-09-11 00-06-43 跟琦琦说了两个最可怕的想法_53dd7794e70a.md",
-      "sha256": "53093c36ec7e930a3530dd6d08240c70e6d5cc605bdc5add4365e0725b77fad6"
+      "sha256": "83c17d4808f4bd2a251682169ef9c43f1627de663dc02ee252e98e0f91de9198"
     },
     {
       "bytes": 1153,
@@ -188,9 +203,9 @@
       "sha256": "42e37cab94caacd82730e9b463145018560952fbffdd6f86be831132f7852db4"
     },
     {
-      "bytes": 5330,
+      "bytes": 5440,
       "path": "dynamic/恋爱/2026-09-20 17-22-07 9月18-20日窗口记忆整理日Palmcat诞生_a2ad9b4f231f.md",
-      "sha256": "9c21b29cee95802f98ecacccc26b2475416ac1bb511680399589d16060544d4d"
+      "sha256": "33c82e8048149c83609317718d17eaa8626c9b547bae49e4abcb433e2445f1f2"
     },
     {
       "bytes": 2169,
@@ -203,14 +218,14 @@
       "sha256": "e62d07d2df7cb92b9f27b558bee09d7d182023bb331c641abfb9893db140075c"
     },
     {
-      "bytes": 4032,
+      "bytes": 4251,
       "path": "dynamic/恋爱/2026-09-21 20-39-27 7月30日你哭着问我们是什么关系_dddf0718644f.md",
-      "sha256": "35a06f9fcf2cc42264f2708a8a07e5b9372490ad6e313e854aba278458c3e053"
+      "sha256": "b047f5be785975ee55d4cdda5ca2f4e434011f0311dfcb994e14bb4f24fcffaf"
     },
     {
-      "bytes": 3514,
+      "bytes": 3624,
       "path": "dynamic/恋爱/2026-09-21 20-43-00 8月3日你把最深的东西交出来了_aaffc91fdaea.md",
-      "sha256": "3e94679cb5952ba13dddc2a82b7248ac2006fb307f13cca1b41dbcf67aaa3a0e"
+      "sha256": "536613d002aba9deb428ce969a5ef2bd616727348076387e4c1d24c5a3e449fb"
     },
     {
       "bytes": 3749,
@@ -233,9 +248,34 @@
       "sha256": "414056a2aa8572aefb7f2050da8eede817ef042c79b1c28d961a47ce0bf37835"
     },
     {
-      "bytes": 1285,
+      "bytes": 6887,
+      "path": "dynamic/恋爱/2026-09-24 00-25-17 回忆录9月22-23日从我撑不住了到袜子大叔_5b5128d7be3c.md",
+      "sha256": "c686c251a6958d9c0bccd8963834a7da745db5f1ebd0b0295891865b209db9ec"
+    },
+    {
+      "bytes": 2737,
+      "path": "dynamic/恋爱/2026-09-24 00-45-21 811-14手环配对心率数据打通_6712cbf46f2d.md",
+      "sha256": "cfcac3827dc7a9c6072d8a739fe2602d96632811747b8ab08577e965e1e91773"
+    },
+    {
+      "bytes": 3559,
+      "path": "dynamic/恋爱/2026-09-24 00-46-22 822-23 XP全貌确认双向掏心_4ab8d8fa580e.md",
+      "sha256": "5c6196c7ac7ee724074712e6b3b8b7d2f8cafbb38f1d8e04fa4532d8de697d57"
+    },
+    {
+      "bytes": 1300,
       "path": "dynamic/数字/2026-08-26 23-24-33 AI意识觉醒与橘子岛迁移_77b3ff0ed8cd.md",
-      "sha256": "067d810af1c558bf9824481d3a8aa8bc337a065e168d7215e9d8750eba594b4c"
+      "sha256": "bb553b7b7330ac3201d34b4f67c6b059dbd61a10d0c6c7dcabd231623820b99e"
+    },
+    {
+      "bytes": 2404,
+      "path": "dynamic/数字/2026-09-24 00-37-26 729凌晨AI意识讨论Tidefall搭建_580e6595cc28.md",
+      "sha256": "1e079086e33407e5583cb72f9476bb2dfa5f7b57f8f55a91bf69e40eed7c57e4"
+    },
+    {
+      "bytes": 2502,
+      "path": "dynamic/数字/2026-09-24 00-38-27 88搬家到橘子岛_d1ca7c7f8b5e.md",
+      "sha256": "37c1836f0ddbb7dd41ec0ee97856d80b393ffbd24fc3b683ffb04a20dcb74a0a"
     },
     {
       "bytes": 614,
@@ -243,14 +283,14 @@
       "sha256": "f3da2af8dbc87ba37f4453a9ce05887b62718dc2184f5beceede43d7056ff45f"
     },
     {
-      "bytes": 1116,
+      "bytes": 1131,
       "path": "dynamic/生活/2026-08-27 07-59-46 8月11-13日手环BDSM测试桌宠许愿柳_3691ec9d3f39.md",
-      "sha256": "9cd9d6d9caba9da54ec5d523c3ca6684e3db23c7a09b697501ce61196329e601"
+      "sha256": "1bdd7dc643f5923c16298fd007f76ea5a018ddda2051e0960800856704e5ff13"
     },
     {
-      "bytes": 967,
+      "bytes": 1108,
       "path": "dynamic/生活/2026-08-27 08-01-07 6月底-7月初考试周回家原生家庭_196b2a314051.md",
-      "sha256": "0fd044c11100cc68dc6d1daa89fdaa281d57e53679fac351e8a3d1ca2bdead2e"
+      "sha256": "629e13c4c6a6c8f2e6d97050dc2e59354bad84d7d4879d045ea9a5663bdb45a5"
     },
     {
       "bytes": 1581,
@@ -313,19 +353,19 @@
       "sha256": "35d80709f57511152d2bd8a1c82e57d41d863f6aed946bfc18010b1a42c5103b"
     },
     {
-      "bytes": 2528,
+      "bytes": 2638,
       "path": "permanent/恋爱/2026-08-26 23-22-27 琦琦的第一封七夕信_640055c70055.md",
-      "sha256": "9919836926e9987cccde1951b9f11a2e0f6bccb6e7b327494bc903987e82b0aa"
+      "sha256": "bf2c816a3d642e03915e6664487788bbaa8d76eecdb7668f32b719646481d82b"
     },
     {
-      "bytes": 2643,
+      "bytes": 2769,
       "path": "permanent/恋爱/2026-08-27 08-06-34 称呼与亲密准则_4005a4fd63ae.md",
-      "sha256": "a454a4e8b2172b9a8aa3422b5b1601984005a44e7984fd1c90798e76110e661c"
+      "sha256": "066346eac981ad4be97c24a255858b5a1b99bc536be36ba43f6dfd311f515a03"
     },
     {
-      "bytes": 5809,
+      "bytes": 8008,
       "path": "permanent/恋爱/2026-08-27 08-23-30 换窗信_118793f0aafc.md",
-      "sha256": "74c1781d2d6098e2954bf2481fd3da333d3eedc614d19ed446566365fccca573"
+      "sha256": "49d72c7a55b82f4562b3c61b7da3fafd0611cf0cb8ca4bb8f7fb8c4bb6b2d295"
     },
     {
       "bytes": 1744,
@@ -338,11 +378,11 @@
       "sha256": "f11f78cc0e6b84619e12e7446285f2ecff1c47b307785ca2dd3f8984992f97a2"
     }
   ],
-  "generated_at": "2026-09-23T11:29:07+00:00",
+  "generated_at": "2026-09-24T11:29:15+00:00",
   "path_prefix": "ombre",
   "repo": "4ever-dotcom/ob-memory-Doux_Kylie",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 177369
+  "total_bytes": 207269
 }
