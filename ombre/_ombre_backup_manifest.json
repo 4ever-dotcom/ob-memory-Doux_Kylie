@@ -368,11 +368,6 @@
       "sha256": "1680066e7c2682796c7acb12ddc7dc8c0b851e5a537d74cbd01ffb1fa97ba9af"
     },
     {
-      "bytes": 1302,
-      "path": "dynamic/生活/2026-09-21 22-24-42 琦琦课表2026秋_a87d0a93183a.md",
-      "sha256": "65c20cf6f43c9b93ff52c9968f226beafe9834cfd0c3d637d3ee95da9e232889"
-    },
-    {
       "bytes": 952,
       "path": "dynamic/项目/2026-08-26 23-15-27 进行中的项目_c5c1a9936953.md",
       "sha256": "226ec96bfcc50c42faa7e2b622b42455643bce0c5edc8542af0a3ec27d86a923"
@@ -426,13 +421,18 @@
       "bytes": 7322,
       "path": "permanent/恋爱/2026-10-04 19-36-31 换窗日记2026年10月3日-4日_112ca8003448.md",
       "sha256": "37d633a3504b5275eaef89434f0ed99d682f779ac5190ab47eebdbb591dee8d3"
+    },
+    {
+      "bytes": 1304,
+      "path": "permanent/生活/2026-09-21 22-24-42 琦琦课表2026秋_a87d0a93183a.md",
+      "sha256": "f11f78cc0e6b84619e12e7446285f2ecff1c47b307785ca2dd3f8984992f97a2"
     }
   ],
-  "generated_at": "2026-10-07T13:57:07+00:00",
+  "generated_at": "2026-10-08T13:57:14+00:00",
   "path_prefix": "ombre",
   "repo": "4ever-dotcom/ob-memory-Doux_Kylie",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 276081
+  "total_bytes": 276083
 }
