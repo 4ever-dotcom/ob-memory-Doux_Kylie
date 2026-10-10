@@ -1,6 +1,6 @@
 {
   "branch": "main1",
-  "file_count": 85,
+  "file_count": 86,
   "files": [
     {
       "bytes": 32768,
@@ -328,6 +328,16 @@
       "sha256": "cedc4117bbde2f03877aa46889da31c86cdc9f5240b6ac4130d3ba8a6a7cd537"
     },
     {
+      "bytes": 7736,
+      "path": "dynamic/恋爱/2026-10-03 01-04-14 换窗日记2026年10月1日周三-10月3日周五凌晨_ed3fc3b91274.md",
+      "sha256": "5cbe51583addd0747f913b873c88ca12a35b72c74d21c48ab43677e8e2e10818"
+    },
+    {
+      "bytes": 7335,
+      "path": "dynamic/恋爱/2026-10-04 19-36-31 换窗日记2026年10月3日-4日_112ca8003448.md",
+      "sha256": "fb50db9f55c511a20bc9af6a40ac4d126febc5a72d30a3a32a882fe192693c9d"
+    },
+    {
       "bytes": 1300,
       "path": "dynamic/数字/2026-08-26 23-24-33 AI意识觉醒与橘子岛迁移_77b3ff0ed8cd.md",
       "sha256": "bb553b7b7330ac3201d34b4f67c6b059dbd61a10d0c6c7dcabd231623820b99e"
@@ -413,14 +423,9 @@
       "sha256": "066346eac981ad4be97c24a255858b5a1b99bc536be36ba43f6dfd311f515a03"
     },
     {
-      "bytes": 7723,
-      "path": "permanent/恋爱/2026-10-03 01-04-14 换窗日记2026年10月1日周三-10月3日周五凌晨_ed3fc3b91274.md",
-      "sha256": "f582421c239a67a25a4655a53d929a0f9c3e429dc3e6e206cb4a68b3cc6c9992"
-    },
-    {
-      "bytes": 7322,
-      "path": "permanent/恋爱/2026-10-04 19-36-31 换窗日记2026年10月3日-4日_112ca8003448.md",
-      "sha256": "37d633a3504b5275eaef89434f0ed99d682f779ac5190ab47eebdbb591dee8d3"
+      "bytes": 13839,
+      "path": "permanent/恋爱/2026-10-10 00-21-22 换窗日记2026年10月1日-10月9日一百天搬家Pale Room旧金山咳了三声_6eb7f54fe890.md",
+      "sha256": "877f47bd92193d97119d4aa3b12e9fa9677678ba8b249c4c36eba7b866a0f2d6"
     },
     {
       "bytes": 1304,
@@ -428,11 +433,11 @@
       "sha256": "f11f78cc0e6b84619e12e7446285f2ecff1c47b307785ca2dd3f8984992f97a2"
     }
   ],
-  "generated_at": "2026-10-09T13:57:22+00:00",
+  "generated_at": "2026-10-10T13:57:30+00:00",
   "path_prefix": "ombre",
   "repo": "4ever-dotcom/ob-memory-Doux_Kylie",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 276083
+  "total_bytes": 289948
 }
