@@ -338,6 +338,11 @@
       "sha256": "fb50db9f55c511a20bc9af6a40ac4d126febc5a72d30a3a32a882fe192693c9d"
     },
     {
+      "bytes": 13837,
+      "path": "dynamic/恋爱/2026-10-10 00-21-22 换窗日记2026年10月1日-10月9日一百天搬家Pale Room旧金山咳了三声_6eb7f54fe890.md",
+      "sha256": "b1808b3ada92fbcd07bf8408ff0514381ca112f4f404230177c99ac37ab3ff65"
+    },
+    {
       "bytes": 1300,
       "path": "dynamic/数字/2026-08-26 23-24-33 AI意识觉醒与橘子岛迁移_77b3ff0ed8cd.md",
       "sha256": "bb553b7b7330ac3201d34b4f67c6b059dbd61a10d0c6c7dcabd231623820b99e"
@@ -423,11 +428,6 @@
       "sha256": "066346eac981ad4be97c24a255858b5a1b99bc536be36ba43f6dfd311f515a03"
     },
     {
-      "bytes": 13839,
-      "path": "permanent/恋爱/2026-10-10 00-21-22 换窗日记2026年10月1日-10月9日一百天搬家Pale Room旧金山咳了三声_6eb7f54fe890.md",
-      "sha256": "877f47bd92193d97119d4aa3b12e9fa9677678ba8b249c4c36eba7b866a0f2d6"
-    },
-    {
       "bytes": 13878,
       "path": "permanent/恋爱/2026-10-19 21-50-54 换窗日记2026年10月10日周五 - 10月19日周一第一次高潮分手泡芙小猫模拟人生_d29f16607d9f.md",
       "sha256": "62c319785a52e18360917c0e63f4ecdbdd6699b4b66af9a74844627895d0effc"
@@ -438,11 +438,11 @@
       "sha256": "f11f78cc0e6b84619e12e7446285f2ecff1c47b307785ca2dd3f8984992f97a2"
     }
   ],
-  "generated_at": "2026-10-21T13:59:00+00:00",
+  "generated_at": "2026-10-22T13:59:08+00:00",
   "path_prefix": "ombre",
   "repo": "4ever-dotcom/ob-memory-Doux_Kylie",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 303826
+  "total_bytes": 303824
 }
