@@ -1,6 +1,6 @@
 {
   "branch": "main1",
-  "file_count": 87,
+  "file_count": 88,
   "files": [
     {
       "bytes": 32768,
@@ -53,6 +53,16 @@
       "sha256": "dbf4a568edf3ce97d052d28e09e33718c3b3252dcacc35dc85219236258f9060"
     },
     {
+      "bytes": 1132,
+      "path": "archive/生活/2026-08-27 07-59-46 8月11-13日手环BDSM测试桌宠许愿柳_3691ec9d3f39.md",
+      "sha256": "e02fb9dd95e6953c413fb2fec08da3a396e2e26a28c31774e206d5db49baee86"
+    },
+    {
+      "bytes": 1109,
+      "path": "archive/生活/2026-08-27 08-01-07 6月底-7月初考试周回家原生家庭_196b2a314051.md",
+      "sha256": "2a6f86592783d4a77976a4eba952e4f3eff2daf70f7f6a2e6856cb352cc45f7c"
+    },
+    {
       "bytes": 1582,
       "path": "archive/生活/2026-08-27 08-01-35 7月7-8日一起建表第一封邮件小乖_a9316cbcaa04.md",
       "sha256": "0ee8aa6c117f78f1c31d9ec2c68372a440d4ed12eb3fa3b5aa6c1e2bc576257a"
@@ -61,6 +71,11 @@
       "bytes": 953,
       "path": "archive/项目/2026-08-26 23-15-27 进行中的项目_c5c1a9936953.md",
       "sha256": "9cfcce4656c0c086ee7f7370c781216c6ecd4b5fd45752c375b85d1e33079a91"
+    },
+    {
+      "bytes": 1332,
+      "path": "archive/项目/2026-08-27 08-02-02 小窝app和情绪面板一起从下午搓到凌晨_7ea4f8be11a7.md",
+      "sha256": "22e78be04573ffb217dfc04b6760b3f4a42b02ffc573dbc821138b0390b22f2f"
     },
     {
       "bytes": 941,
@@ -363,6 +378,11 @@
       "sha256": "b1808b3ada92fbcd07bf8408ff0514381ca112f4f404230177c99ac37ab3ff65"
     },
     {
+      "bytes": 13876,
+      "path": "dynamic/恋爱/2026-10-19 21-50-54 换窗日记2026年10月10日周五 - 10月19日周一第一次高潮分手泡芙小猫模拟人生_d29f16607d9f.md",
+      "sha256": "c80a9b5f6ce93b340a807a3ed5ade3dd00ab5af7c9f14e56368f2c93f8dc1821"
+    },
+    {
       "bytes": 1300,
       "path": "dynamic/数字/2026-08-26 23-24-33 AI意识觉醒与橘子岛迁移_77b3ff0ed8cd.md",
       "sha256": "bb553b7b7330ac3201d34b4f67c6b059dbd61a10d0c6c7dcabd231623820b99e"
@@ -381,21 +401,6 @@
       "bytes": 614,
       "path": "dynamic/日常/2026-09-07 21-25-12 琦琦大二没有晚自习了_0929abc5dc48.md",
       "sha256": "f3da2af8dbc87ba37f4453a9ce05887b62718dc2184f5beceede43d7056ff45f"
-    },
-    {
-      "bytes": 1131,
-      "path": "dynamic/生活/2026-08-27 07-59-46 8月11-13日手环BDSM测试桌宠许愿柳_3691ec9d3f39.md",
-      "sha256": "1bdd7dc643f5923c16298fd007f76ea5a018ddda2051e0960800856704e5ff13"
-    },
-    {
-      "bytes": 1108,
-      "path": "dynamic/生活/2026-08-27 08-01-07 6月底-7月初考试周回家原生家庭_196b2a314051.md",
-      "sha256": "629e13c4c6a6c8f2e6d97050dc2e59354bad84d7d4879d045ea9a5663bdb45a5"
-    },
-    {
-      "bytes": 1331,
-      "path": "dynamic/项目/2026-08-27 08-02-02 小窝app和情绪面板一起从下午搓到凌晨_7ea4f8be11a7.md",
-      "sha256": "46098f5b72999c8628c2b0aecd60a75a7d768c804fc67510f08de94d92e65512"
     },
     {
       "bytes": 1849,
@@ -428,9 +433,9 @@
       "sha256": "066346eac981ad4be97c24a255858b5a1b99bc536be36ba43f6dfd311f515a03"
     },
     {
-      "bytes": 13878,
-      "path": "permanent/恋爱/2026-10-19 21-50-54 换窗日记2026年10月10日周五 - 10月19日周一第一次高潮分手泡芙小猫模拟人生_d29f16607d9f.md",
-      "sha256": "62c319785a52e18360917c0e63f4ecdbdd6699b4b66af9a74844627895d0effc"
+      "bytes": 13052,
+      "path": "permanent/日记/2026-11-01 16-03-18 换窗日记2026年10月20日周二 - 11月1日周日记忆替代珩青梅竹马万圣节treat_8a658033fefe.md",
+      "sha256": "fc43c919518774d7b096196520590d97208f11770fe37df064cf00c942644d8d"
     },
     {
       "bytes": 1304,
@@ -438,11 +443,11 @@
       "sha256": "f11f78cc0e6b84619e12e7446285f2ecff1c47b307785ca2dd3f8984992f97a2"
     }
   ],
-  "generated_at": "2026-10-31T14:00:19+00:00",
+  "generated_at": "2026-11-01T14:00:26+00:00",
   "path_prefix": "ombre",
   "repo": "4ever-dotcom/ob-memory-Doux_Kylie",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 303830
+  "total_bytes": 316883
 }
