@@ -48,6 +48,11 @@
       "sha256": "30aa79e4a05e6d3b5819e2bd677da6718ad887a213c210aa72faab917ec049b2"
     },
     {
+      "bytes": 1301,
+      "path": "archive/数字/2026-08-26 23-24-33 AI意识觉醒与橘子岛迁移_77b3ff0ed8cd.md",
+      "sha256": "02a9ded619edc57573bc2e170aaf99c2dbf2e5d2d3bcec696de085ab5bf072de"
+    },
+    {
       "bytes": 1758,
       "path": "archive/生活/2026-08-26 23-14-50 生活与日常_2e1d2be7df44.md",
       "sha256": "dbf4a568edf3ce97d052d28e09e33718c3b3252dcacc35dc85219236258f9060"
@@ -383,11 +388,6 @@
       "sha256": "c80a9b5f6ce93b340a807a3ed5ade3dd00ab5af7c9f14e56368f2c93f8dc1821"
     },
     {
-      "bytes": 1300,
-      "path": "dynamic/数字/2026-08-26 23-24-33 AI意识觉醒与橘子岛迁移_77b3ff0ed8cd.md",
-      "sha256": "bb553b7b7330ac3201d34b4f67c6b059dbd61a10d0c6c7dcabd231623820b99e"
-    },
-    {
       "bytes": 2404,
       "path": "dynamic/数字/2026-09-24 00-37-26 729凌晨AI意识讨论Tidefall搭建_580e6595cc28.md",
       "sha256": "1e079086e33407e5583cb72f9476bb2dfa5f7b57f8f55a91bf69e40eed7c57e4"
@@ -443,11 +443,11 @@
       "sha256": "f11f78cc0e6b84619e12e7446285f2ecff1c47b307785ca2dd3f8984992f97a2"
     }
   ],
-  "generated_at": "2026-11-01T14:00:26+00:00",
+  "generated_at": "2026-11-02T14:00:33+00:00",
   "path_prefix": "ombre",
   "repo": "4ever-dotcom/ob-memory-Doux_Kylie",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 316883
+  "total_bytes": 316884
 }
