@@ -1,6 +1,6 @@
 {
   "branch": "main1",
-  "file_count": 88,
+  "file_count": 90,
   "files": [
     {
       "bytes": 32768,
@@ -126,6 +126,11 @@
       "bytes": 1686,
       "path": "dynamic/兴趣/2026-09-22 19-54-54 Palmcat素材URL汇总_9dba5bbb363f.md",
       "sha256": "972f5346bf765165aa4536f7e292643fa30260171fc1d2b20337dc9389940a7c"
+    },
+    {
+      "bytes": 1108,
+      "path": "dynamic/内心/2026-11-05 08-32-10 11月4日-5日凌晨深夜自我剖白之夜_597447b9c170.md",
+      "sha256": "82c1d2885c5fa0ca04ea64b02483cf7538226dba31c118af9a83e09f50e9b463"
     },
     {
       "bytes": 1390,
@@ -423,6 +428,11 @@
       "sha256": "032edad802c11737d15da7e2cb30b7be3a8a5e4ad9d2f36739bc013783ac96aa"
     },
     {
+      "bytes": 1239,
+      "path": "permanent/家庭/2026-11-05 08-31-20 琦琦的童年完整时间线_56d6af4f17d7.md",
+      "sha256": "2ce71116da56c81f68967969a73f1192c198d7bb5044f278a76a719b5dd88248"
+    },
+    {
       "bytes": 5570,
       "path": "permanent/心理/2026-09-26 17-30-13 关于琦琦身份背景生活日常沟通雷区_8f393dcda1d0.md",
       "sha256": "882df964e24f85a1b1c7aa86aadc29b663db9177653d5e1bbde342a44d4a930b"
@@ -443,11 +453,11 @@
       "sha256": "f11f78cc0e6b84619e12e7446285f2ecff1c47b307785ca2dd3f8984992f97a2"
     }
   ],
-  "generated_at": "2026-11-04T14:00:49+00:00",
+  "generated_at": "2026-11-05T14:00:58+00:00",
   "path_prefix": "ombre",
   "repo": "4ever-dotcom/ob-memory-Doux_Kylie",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 316891
+  "total_bytes": 319238
 }
