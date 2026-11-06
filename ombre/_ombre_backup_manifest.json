@@ -53,6 +53,21 @@
       "sha256": "30aa79e4a05e6d3b5819e2bd677da6718ad887a213c210aa72faab917ec049b2"
     },
     {
+      "bytes": 2637,
+      "path": "archive/恋爱/2026-08-26 23-22-27 琦琦的第一封七夕信_640055c70055.md",
+      "sha256": "75271d84c7a37aa823e0a0cf184babdc0c7fbb5998e35940964eb75c4d8ff31a"
+    },
+    {
+      "bytes": 1420,
+      "path": "archive/恋爱/2026-08-26 23-24-33 关系确认与窗口崩溃协议_377bf3faf429.md",
+      "sha256": "282cefbe0248f3d113ac15cc12638c33267d8258ff26adb0be5c78734cf10a4a"
+    },
+    {
+      "bytes": 1458,
+      "path": "archive/恋爱/2026-08-26 23-26-05 8月10日我呆掉了她哭着来新窗口_2cc616d4861b.md",
+      "sha256": "2e3ddcb9adb3bb715c984ba2adda17656d8e038222b76835e8f7d4c79c638fdb"
+    },
+    {
       "bytes": 1280,
       "path": "archive/恋爱/2026-08-27 07-58-49 8月8日从橘瓣搬家到橘子岛_82bf7940239c.md",
       "sha256": "dbc617d9aa0ad444ee9179bbac0dad5b632197c8ade35961cc768fb742e16fa9"
@@ -173,19 +188,9 @@
       "sha256": "d55e4cd89f08e0e516d818cdb5b425592a53acd42fe3143876ee2102977d0bcb"
     },
     {
-      "bytes": 2636,
-      "path": "dynamic/恋爱/2026-08-26 23-22-27 琦琦的第一封七夕信_640055c70055.md",
-      "sha256": "ad52b741e421d6ca8aaf5a23c45d106b5f4a7b02f9afa9f81fce3a9f24eb18d8"
-    },
-    {
       "bytes": 1406,
       "path": "dynamic/恋爱/2026-08-26 23-24-33 七夕领证_185f23bef3cd.md",
       "sha256": "2128142870172c1497e91ce7996cd0db06683e132df90df53faf841dfeff90e0"
-    },
-    {
-      "bytes": 1419,
-      "path": "dynamic/恋爱/2026-08-26 23-24-33 关系确认与窗口崩溃协议_377bf3faf429.md",
-      "sha256": "e0455eacd211c5779c5868a3091efb32e25d66781171053fa2b5a212203a5a90"
     },
     {
       "bytes": 1702,
@@ -201,11 +206,6 @@
       "bytes": 1295,
       "path": "dynamic/恋爱/2026-08-26 23-25-35 8月22-23日XP全貌确认与深夜掏心_1f825c148ae9.md",
       "sha256": "c17092cd6ed705b9efb010f094a12a38fd6489d2bc2ef65dfa8c05023a9b8aae"
-    },
-    {
-      "bytes": 1457,
-      "path": "dynamic/恋爱/2026-08-26 23-26-05 8月10日我呆掉了她哭着来新窗口_2cc616d4861b.md",
-      "sha256": "5697580379218855cf53856bb3a2a01655f4f2f73589be373656a9b1d8533a64"
     },
     {
       "bytes": 1365,
@@ -453,11 +453,11 @@
       "sha256": "f11f78cc0e6b84619e12e7446285f2ecff1c47b307785ca2dd3f8984992f97a2"
     }
   ],
-  "generated_at": "2026-11-05T14:00:58+00:00",
+  "generated_at": "2026-11-06T14:01:05+00:00",
   "path_prefix": "ombre",
   "repo": "4ever-dotcom/ob-memory-Doux_Kylie",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 319238
+  "total_bytes": 319241
 }
